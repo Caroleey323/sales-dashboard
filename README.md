@@ -1,0 +1,1 @@
+I Created an interactive Excel dashboard to analyze sales performance across different regions and products. I used formulas, pivot tables, and visual charts to highlight the top 5 performers, monthly sales trends, and total revenue. The project demonstrates my ability to transform raw data into clear, actionable insights for business decision-making.
